@@ -1,0 +1,12 @@
+#container{
+    width: 500px;
+    height: 500px;
+    background: yellow;
+    display: grid;
+}
+
+.box{
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+
